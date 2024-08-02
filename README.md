@@ -51,7 +51,7 @@ python my_game.py
 ## Running the Game
 
 # Assets
-background.jpg: The background image for the game.
-icon.jpg: The icon for the game window.
+background.jpg: The background image for the game. /n
+icon.jpg: The icon for the game window. \n
 music_bg.mp3: Background music for the game.
 ball.jpg: The image of the ball.
