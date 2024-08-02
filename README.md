@@ -23,7 +23,7 @@ The Ping Pong game features two paddles and a ball. Players can control the padd
 
 1. Clone the repository:
     ```sh
-    git clone github.com/Vandersar02/Ping-Pong.git
+    git clone https://github.com/Vandersar02/Ping-Pong.git
     ```
 
 2. Navigate to the project directory:
