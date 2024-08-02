@@ -48,10 +48,10 @@ To start the game, run the following command:
 ```sh
 python my_game.py
 ```
+## Running the Game
 
 # Assets
 background.jpg: The background image for the game.
 icon.jpg: The icon for the game window.
 music_bg.mp3: Background music for the game.
 ball.jpg: The image of the ball.
-## Running the Game
